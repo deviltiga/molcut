@@ -1,0 +1,2 @@
+Atom 2 - Symbol: N
+Atom 1 - Symbol: C
