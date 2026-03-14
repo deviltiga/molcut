@@ -1,3 +1,0 @@
-Bond between atoms 7 and 9
-Bond between atoms 9 and 15
-Bond between atoms 3 and 4
